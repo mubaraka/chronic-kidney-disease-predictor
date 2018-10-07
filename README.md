@@ -16,3 +16,6 @@ This algorithm can be run through the following command (when in the working dir
 ```
 python logistic-regression-allvar.py
 ```
+
+
+This program was used as part of my Higher Level Maths International Assessment for the International Baccalaureate.
